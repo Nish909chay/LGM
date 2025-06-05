@@ -1,2 +1,4 @@
 Django>=3.0
 mysqlclient
+gunicorn
+dj-database-url
